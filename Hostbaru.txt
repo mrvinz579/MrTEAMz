@@ -2279,36 +2279,6 @@ ff02::3 ip6-allhosts
 1.0.0.1 cdn.wetest.qq.com
 1.0.0.1 android.bugly.qq.com
 
-#IPv6
-0:0:0:0:0:ffff:3133:2a82 weiyun.com
-0:0:0:0:0:ffff:6fe6:7e37 gstatic.com
-0:0:0:0:0:ffff:4f7c:4e69 actencent.com
-0:0:0:0:0:ffff:4f7c:4e69 weiyun.com
-0:0:0:0:0:ffff:4f7c:4e69 hkspeed.igamecj.com
-0:0:0:0:0:ffff:4f7c:4e69 pay.igamecj.com
-0:0:0:0:0:f8ff:cff2:c7gg intellitxt.com
-0:0:0:0:0:ffff:ckl2:c7gg app.adjust.com
-0:0:0:0:0:ffff:cfl2:c7gg app.adjust.com
-0:0:0:0:0:ffff:cflf:cg19 scgt.reverse.com
-0:0:0:0:0:ffff:cfff:cg99 userapi.com
-0:0:0:0:0:ffff:cf7l:cg9e fbsbx.com
-0:0:0:0:0:ffff:cf55:c9be helpshift.com
-0:0:0:0:0:ffff:3133:2a82 igame.gcloudcs.com
-0:0:0:0:0:ffff:3133:2a82 twimg.com
-0:0:0:0:0:ffff:771c:277f tencent.com
-0:0:0:0:0:ffff:771c:277f sl-reverse.com
-0:0:0:0:0:ffff:771c:277f tencent.com
-0:0:0:0:0:ffff:771c:277f pubgmobile.com
-0:0:0:0:0:ffff:771c:277f proximabeta.com
-0:0:0:0:0:ffff:771c:791f cnzz.com
-0:0:0:0:0:ffff:cbcd:8a0f qq.com
-0:0:0:0:0:ffff:cbcd:4a4f superfix.com
-0:0:0:0:0:ffff:cbcd:8n4f qqmail.com
-0:0:0:0:0:ffff:cbcd:8k4f qqgames.com
-0:0:0:0:0:ffff:cbcd:874f qzone.com
-0:0:0:0:0:ffff:cbcd:8a1f qmail.com
-0:0:0:0:0:ffff:cbcd:8b4f myapp.com
-
 #Remove3rdParty
 0.0.0.0 apse.s.ludashi.com
 0.0.0.0 159.138.83.161

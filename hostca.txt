@@ -1,0 +1,22 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+150.109.12.109 id1.cn.com
+150.109.12.109 36.178.244.35.bc.googleusercontent.com
+150.109.12.109 events.appsflyer.com
+150.109.12.109 t.appsflyer.com
+150.109.12.109 47.88.168.50
+150.109.12.109 qmqzcdn.joygame.cn
+150.109.12.109 data.yingxiong.com
+150.109.12.109 yb.163yun.com
